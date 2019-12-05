@@ -1,0 +1,6 @@
+C:\Users\mayur.shingote\source\repos\WinRApp\WinRApp\bin\Debug\WinRApp.exe.config
+C:\Users\mayur.shingote\source\repos\WinRApp\WinRApp\bin\Debug\WinRApp.exe
+C:\Users\mayur.shingote\source\repos\WinRApp\WinRApp\bin\Debug\WinRApp.pdb
+C:\Users\mayur.shingote\source\repos\WinRApp\WinRApp\obj\Debug\WinRApp.csprojAssemblyReference.cache
+C:\Users\mayur.shingote\source\repos\WinRApp\WinRApp\obj\Debug\WinRApp.exe
+C:\Users\mayur.shingote\source\repos\WinRApp\WinRApp\obj\Debug\WinRApp.pdb
